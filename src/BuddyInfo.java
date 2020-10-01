@@ -1,5 +1,6 @@
 /**
  * This class models a person that will be placed within an address book.
+ * Created as part of a requirement for SYSC 3110 (Software Design Project).
  *
  * @author Tony Zeidan
  * @version 10/01/2020
