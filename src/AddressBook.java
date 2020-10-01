@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * This class models an AddressBook containing individual people (BuddyInfo objects).
